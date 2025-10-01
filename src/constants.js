@@ -6,6 +6,7 @@ export const cardArray = [
     address: "Казань, р-н Вахитовский",
     date: "10 июля 11:39",
     img: "/image/card-image.png",
+    description: "Продаю не спеша самокат в хорошем состоянии."
   },
   {
     id: 1,
@@ -14,6 +15,7 @@ export const cardArray = [
     address: "Казань, р-н Вахитовский",
     date: "10 июля 11:39",
     img: "/image/card-image.png",
+    description: "Продаю не спеша самокат в хорошем состоянии."
   },
   {
     id: 2,
@@ -22,5 +24,6 @@ export const cardArray = [
     address: "Казань, р-н Вахитовский",
     date: "10 июля 11:39",
     img: "/image/card-image.png",
+    description: "Продаю не спеша самокат в хорошем состоянии."
   },
 ];
